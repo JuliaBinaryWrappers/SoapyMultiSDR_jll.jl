@@ -1,0 +1,244 @@
+[[SoapyMultiSDR]]
+arch = "aarch64"
+git-tree-sha1 = "bef508d0b3ab48419622d76b4dccf47ff0045a18"
+os = "macos"
+
+    [[SoapyMultiSDR.download]]
+    sha256 = "8acfaa33ee895ae79b5655dbfab10e2b1c85630d341c57aeeb31ac658d211624"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyMultiSDR_jll.jl/releases/download/SoapyMultiSDR-v0.1.0+0/SoapyMultiSDR.v0.1.0.aarch64-apple-darwin.tar.gz"
+[[SoapyMultiSDR]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "713b57cad830f835700dadfaae9919c41a02c38c"
+libc = "glibc"
+os = "linux"
+
+    [[SoapyMultiSDR.download]]
+    sha256 = "995c43fd0afccef708bc9cf353cfdedbce902c99cb6427712333a9768c43a455"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyMultiSDR_jll.jl/releases/download/SoapyMultiSDR-v0.1.0+0/SoapyMultiSDR.v0.1.0.aarch64-linux-gnu-cxx03.tar.gz"
+[[SoapyMultiSDR]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5444be2a688c9e36831b1743a47400acc145fb9f"
+libc = "glibc"
+os = "linux"
+
+    [[SoapyMultiSDR.download]]
+    sha256 = "87613e903a3e1c7b785b86d11ea451fe939b590f51562d6c3afac21ece096ae8"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyMultiSDR_jll.jl/releases/download/SoapyMultiSDR-v0.1.0+0/SoapyMultiSDR.v0.1.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[SoapyMultiSDR]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "492f27e9448ebd1bce5d1aab4e10eb1d5d2b8c93"
+libc = "musl"
+os = "linux"
+
+    [[SoapyMultiSDR.download]]
+    sha256 = "81c8be31fe7fc90dc77250a6a13b58d108b4213970143e680baf97f077be4c37"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyMultiSDR_jll.jl/releases/download/SoapyMultiSDR-v0.1.0+0/SoapyMultiSDR.v0.1.0.aarch64-linux-musl-cxx03.tar.gz"
+[[SoapyMultiSDR]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ffdf758229099aa1e52a4f3c62c3cba02f1bfdce"
+libc = "musl"
+os = "linux"
+
+    [[SoapyMultiSDR.download]]
+    sha256 = "0b1762bfe2d1427a85403c505ad36905c3f8a13ecb8ba15c27cfb7a67072da46"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyMultiSDR_jll.jl/releases/download/SoapyMultiSDR-v0.1.0+0/SoapyMultiSDR.v0.1.0.aarch64-linux-musl-cxx11.tar.gz"
+[[SoapyMultiSDR]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "7afa940ebd978b4928d6ee4bd2bbf8a52402677b"
+libc = "glibc"
+os = "linux"
+
+    [[SoapyMultiSDR.download]]
+    sha256 = "23100abc9356cb6b20c088a893df6ab69d92ff1dab015e838242e6a8a5f89c6f"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyMultiSDR_jll.jl/releases/download/SoapyMultiSDR-v0.1.0+0/SoapyMultiSDR.v0.1.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[SoapyMultiSDR]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "060ec0223f5e3c68a33d1c745341badf68234886"
+libc = "glibc"
+os = "linux"
+
+    [[SoapyMultiSDR.download]]
+    sha256 = "5126c507d835c9643d9fa0e391e4fd3477d7d4b2dfef1a1a17f443bfaa86f6de"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyMultiSDR_jll.jl/releases/download/SoapyMultiSDR-v0.1.0+0/SoapyMultiSDR.v0.1.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[SoapyMultiSDR]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b81877ff5af0003c5a24046910e104bdf5cc86f4"
+libc = "musl"
+os = "linux"
+
+    [[SoapyMultiSDR.download]]
+    sha256 = "c203b559a2f8041b8860f52498e1f43ffde7091f13c64ae3530fd30fee3af06c"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyMultiSDR_jll.jl/releases/download/SoapyMultiSDR-v0.1.0+0/SoapyMultiSDR.v0.1.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[SoapyMultiSDR]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "fd6de1c56b810bc0a3678b3b3a853a41a5e781f0"
+libc = "musl"
+os = "linux"
+
+    [[SoapyMultiSDR.download]]
+    sha256 = "6562dda3729881d418fa2524166e48e4ad317967ec20a8537b9df1068a90cd74"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyMultiSDR_jll.jl/releases/download/SoapyMultiSDR-v0.1.0+0/SoapyMultiSDR.v0.1.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[SoapyMultiSDR]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "0ebd014c1c4ce9ff1b44b779579dfb97bc69439f"
+libc = "glibc"
+os = "linux"
+
+    [[SoapyMultiSDR.download]]
+    sha256 = "cb90da63860a54e0b4dec1338513ac94e03127a3940913209b580c188939307c"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyMultiSDR_jll.jl/releases/download/SoapyMultiSDR-v0.1.0+0/SoapyMultiSDR.v0.1.0.i686-linux-gnu-cxx03.tar.gz"
+[[SoapyMultiSDR]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0398d4d3d29652a1b957503a344d8648c4bf18d1"
+libc = "glibc"
+os = "linux"
+
+    [[SoapyMultiSDR.download]]
+    sha256 = "c9c391f0696526e3caaa85d67632288c6c553ec911f92ca0f3908917e72e0aa1"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyMultiSDR_jll.jl/releases/download/SoapyMultiSDR-v0.1.0+0/SoapyMultiSDR.v0.1.0.i686-linux-gnu-cxx11.tar.gz"
+[[SoapyMultiSDR]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "2267ddad28168fb7ea4e79d5c3f34f10861211c9"
+libc = "musl"
+os = "linux"
+
+    [[SoapyMultiSDR.download]]
+    sha256 = "112b1cd612e7e07165045012367abe1299d6a5f4f66b0f827d39814cb8c6938d"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyMultiSDR_jll.jl/releases/download/SoapyMultiSDR-v0.1.0+0/SoapyMultiSDR.v0.1.0.i686-linux-musl-cxx03.tar.gz"
+[[SoapyMultiSDR]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a2da5b0feea8e2a99a9f593af3f40a1497b98e22"
+libc = "musl"
+os = "linux"
+
+    [[SoapyMultiSDR.download]]
+    sha256 = "1d24f5d59f25c205b2776ee0d089ba21e42a818f40cb2200079ef6ad932bd6bf"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyMultiSDR_jll.jl/releases/download/SoapyMultiSDR-v0.1.0+0/SoapyMultiSDR.v0.1.0.i686-linux-musl-cxx11.tar.gz"
+[[SoapyMultiSDR]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "50a82b6a1e102d8c084c0da2e41d77cc3a952528"
+os = "windows"
+
+    [[SoapyMultiSDR.download]]
+    sha256 = "7e18213560cc990faf28439d99dce50a9abc690c021f866a9807332e9c25567f"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyMultiSDR_jll.jl/releases/download/SoapyMultiSDR-v0.1.0+0/SoapyMultiSDR.v0.1.0.i686-w64-mingw32-cxx03.tar.gz"
+[[SoapyMultiSDR]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c806024bcca3b8720578b0bc9476b8aa336e2095"
+os = "windows"
+
+    [[SoapyMultiSDR.download]]
+    sha256 = "47c3735445053c4272c8eb03c650003eee360da424774b298389783e97f2a4ce"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyMultiSDR_jll.jl/releases/download/SoapyMultiSDR-v0.1.0+0/SoapyMultiSDR.v0.1.0.i686-w64-mingw32-cxx11.tar.gz"
+[[SoapyMultiSDR]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "30fd9e6a13023b2dcafe0f687638a1c33fab66ad"
+libc = "glibc"
+os = "linux"
+
+    [[SoapyMultiSDR.download]]
+    sha256 = "90fae4b3245dfd6c14d3321468f31645f3202baaf72bdd30ffa80d8809561f2a"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyMultiSDR_jll.jl/releases/download/SoapyMultiSDR-v0.1.0+0/SoapyMultiSDR.v0.1.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[SoapyMultiSDR]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d3a22a12418fd86bf8a8ba09b711f9180b42a4df"
+libc = "glibc"
+os = "linux"
+
+    [[SoapyMultiSDR.download]]
+    sha256 = "f0666abce21106a0b0fec2d4048c8508ce649369ecc86cb3d76d7d72fcb03d52"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyMultiSDR_jll.jl/releases/download/SoapyMultiSDR-v0.1.0+0/SoapyMultiSDR.v0.1.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[SoapyMultiSDR]]
+arch = "x86_64"
+git-tree-sha1 = "e5fa719c282ba5f780924f77c2147fd74b827f41"
+os = "macos"
+
+    [[SoapyMultiSDR.download]]
+    sha256 = "b73547364a098af9fdf8bdfa2eb6930abc816b5c722634a518ab05667d19befe"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyMultiSDR_jll.jl/releases/download/SoapyMultiSDR-v0.1.0+0/SoapyMultiSDR.v0.1.0.x86_64-apple-darwin.tar.gz"
+[[SoapyMultiSDR]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "6af790977aff02d0f051d7fc527639eaac03b943"
+libc = "glibc"
+os = "linux"
+
+    [[SoapyMultiSDR.download]]
+    sha256 = "17531571a20e5653f6cdb284b0f18b79a6e9c802c7f03f01e98b0ddb07c07a65"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyMultiSDR_jll.jl/releases/download/SoapyMultiSDR-v0.1.0+0/SoapyMultiSDR.v0.1.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[SoapyMultiSDR]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "408bbc6e4ea7ad487c24fb9f512a9f0e88618933"
+libc = "glibc"
+os = "linux"
+
+    [[SoapyMultiSDR.download]]
+    sha256 = "f101dc800f8aeb1f6de8ec4a1c63a23d31768989c2fc558e598e51c39c41bc25"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyMultiSDR_jll.jl/releases/download/SoapyMultiSDR-v0.1.0+0/SoapyMultiSDR.v0.1.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[SoapyMultiSDR]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f594e1a8162ea654547e36967a487e08cbfbfcef"
+libc = "musl"
+os = "linux"
+
+    [[SoapyMultiSDR.download]]
+    sha256 = "9be2956f1a5fd22c2a44ebc016597610c82f54b1a26510fd5ea190d5f7ff923d"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyMultiSDR_jll.jl/releases/download/SoapyMultiSDR-v0.1.0+0/SoapyMultiSDR.v0.1.0.x86_64-linux-musl-cxx03.tar.gz"
+[[SoapyMultiSDR]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "165847dac65496bf279121e1e909681179181842"
+libc = "musl"
+os = "linux"
+
+    [[SoapyMultiSDR.download]]
+    sha256 = "d5ef3e6fe2222ac0be6f15b056547eb04288292f0a093c1916eee5b66a17744b"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyMultiSDR_jll.jl/releases/download/SoapyMultiSDR-v0.1.0+0/SoapyMultiSDR.v0.1.0.x86_64-linux-musl-cxx11.tar.gz"
+[[SoapyMultiSDR]]
+arch = "x86_64"
+git-tree-sha1 = "541c2548aafc89b870fa746964dacbd6e6c8c598"
+os = "freebsd"
+
+    [[SoapyMultiSDR.download]]
+    sha256 = "02460d21ce5a9fd67713982e9130fdddca9b11bfbc6282d48732a58a2829fde4"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyMultiSDR_jll.jl/releases/download/SoapyMultiSDR-v0.1.0+0/SoapyMultiSDR.v0.1.0.x86_64-unknown-freebsd.tar.gz"
+[[SoapyMultiSDR]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "db1baf4a25877e0195dfd02ed43d32cde20d4309"
+os = "windows"
+
+    [[SoapyMultiSDR.download]]
+    sha256 = "cf0aa767ffb6238561e3f69f59cec599661eff8a392a4e42335fa52d75e3e61e"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyMultiSDR_jll.jl/releases/download/SoapyMultiSDR-v0.1.0+0/SoapyMultiSDR.v0.1.0.x86_64-w64-mingw32-cxx03.tar.gz"
+[[SoapyMultiSDR]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6d716dfeb1fb20ea64fff7883a4a2697abb631f1"
+os = "windows"
+
+    [[SoapyMultiSDR.download]]
+    sha256 = "e0cb7d9f3a4129ae17814236f54110ab5eee6a9238107785c91f716a4230d8ca"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyMultiSDR_jll.jl/releases/download/SoapyMultiSDR-v0.1.0+0/SoapyMultiSDR.v0.1.0.x86_64-w64-mingw32-cxx11.tar.gz"
